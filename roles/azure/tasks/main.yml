@@ -24,7 +24,7 @@
       - path: /home/azureuser/.ssh/authorized_keys
         key_data: "{{ssh_keys}}"
     image:
-      offer: UbuntuServer
-      publisher: Canonical
-      sku: '16.04-LTS'
+      offer: CentOS
+      publisher: OpenLogic
+      sku: '7.5'
       version: latest
