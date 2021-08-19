@@ -3,7 +3,6 @@
 - name: Create Azure VM Instance
   azure_rm_virtualmachine:
     resource_group: "{{resource_group}}"
-    location: "{{ location }}"
     name: "{{instance_name}}"
     vm_size: "{{vm_size}}"
     admin_username: azureuser
