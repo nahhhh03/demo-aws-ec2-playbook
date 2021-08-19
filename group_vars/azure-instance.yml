@@ -3,3 +3,4 @@ resource_group: daehyunRG
 vm_size : Standard_B1ls
 instance_name : daehyunTestVM
 virtual_network_name : gayeonVirtualNetwork
+subnet_name : gayeonSubnet
