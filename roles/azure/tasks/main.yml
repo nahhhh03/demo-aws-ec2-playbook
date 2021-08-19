@@ -13,5 +13,5 @@
     image:
       offer: UbuntuServer
       publisher: Canonical
-      sku: 16.04-LTS
+      sku: '16.04-LTS'
       version: latest
