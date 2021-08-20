@@ -15,4 +15,3 @@
       publisher: Canonical
       sku: '16.04-LTS'
       version: latest
-    location: "{{location}}"
